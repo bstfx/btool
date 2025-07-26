@@ -14,4 +14,5 @@ This lightweight tool ideal for small teams, or compact projects. It helps you m
    so as a result you will have `C:\Users\<USER>\Documents\houdinixxx\btool-master`
 3. Pick one file `btool.json` from there and move it into `packages` folder of your houdini user directory  (create it if it does not exist)  
    for ex. the full path will look like `C:\Users\<USER>\Documents\houdinixxx\packages\btool.json`
-4. Enjoy!
+4. Free to copy on other folder and change path    
+5. Enjoy!
