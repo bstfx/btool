@@ -1,9 +1,9 @@
 # btool
-Author
-Biswajit Tarafder
-biswajitfx@gmail.com
-FX Supervisor
-The Mill
+Author:
+Biswajit Tarafder:
+biswajitfx@gmail.com:
+FX Supervisor:
+The Mill:
 India
 feb-2025
 
